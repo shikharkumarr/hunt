@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "75735105397",
+    "project_id": "muj-t-hunt",
+    "storage_bucket": "muj-t-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75735105397:android:12ecd110fde786b6c29d3c",
+        "android_client_info": {
+          "package_name": "com.aliferous.thunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75735105397-450piju8jr4deg18s3eafa1j94865fb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdAQqTYm6x736wZ7u88WKqkMGgb5Y5SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75735105397-450piju8jr4deg18s3eafa1j94865fb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75735105397:android:05d30283d0337d1cc29d3c",
+        "android_client_info": {
+          "package_name": "com.kochikame.mujthunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75735105397-450piju8jr4deg18s3eafa1j94865fb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdAQqTYm6x736wZ7u88WKqkMGgb5Y5SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75735105397-450piju8jr4deg18s3eafa1j94865fb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
